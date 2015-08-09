@@ -18,7 +18,7 @@ of world-domination. Our motto is:
 
 <p>
 As such our plans are to work on innovative open-source software, and be
-successful by providing our employees with 
+successful by providing our employees with
 <a href="http://www.shlomifish.org/philosophy/computers/software-management/perfect-workplace/">the
 Perfect Info-Tech Workplace</a>, where they'll create superb values.
 </p>
@@ -30,15 +30,15 @@ The rest of this page will explain our philosophy and what we plan to do next.
 <h2 id="back-to-basics">Back to Basics</h2>
 
 <div class="side-img">
-<a href="http://en.wikipedia.org/wiki/Image:Aristoteles_Louvre.jpg"><img 
+<a href="http://en.wikipedia.org/wiki/Image:Aristoteles_Louvre.jpg"><img
     src="aristotle-wikipedia-louvre-small.jpg" alt="Sculpture of Aristotle"
     title="Portrait of Aristotle from the Louvre. Picture taken from the wikipedia" /></a>
 </div>
 
 <p>
 So when we discuss philosophy - where do we start? Obviously with what we
-as human beings want. According to Artistotle in <a 
-href="http://en.wikipedia.org/wiki/Nicomachean_Ethics">Nicomachean 
+as human beings want. According to Artistotle in <a
+href="http://en.wikipedia.org/wiki/Nicomachean_Ethics">Nicomachean
 Ethics</a>, there are two primary things humans want:
 </p>
 
@@ -67,11 +67,11 @@ the software, we cannot effectively make such a software.
 <p>
 In order to be happy, most humans want <b>freedom</b>: from the freedom
 to choose their friends and loved ones, to the freedom to do what they like
-to do instead of what other people tell them they have to do, to the political 
+to do instead of what other people tell them they have to do, to the political
 freedom from oppression, to the freedom to travel and work wherever they want,
-to the freedom to hold and express their own opinions. A person who's 
+to the freedom to hold and express their own opinions. A person who's
 completely non-free will be miserable. A person who's free to do what he
-wants, on the other hand (if for example he's rich), will most likely feel 
+wants, on the other hand (if for example he's rich), will most likely feel
 very happy most of the time.
 </p>
 
@@ -126,7 +126,7 @@ The Truth Shall Set You Free.
 I Know that I Do Not Know
 </li>
 <li>
-A wiseman can learn from a fool much more than a fool can ever learn from a 
+A wiseman can learn from a fool much more than a fool can ever learn from a
 wiseman.
 </li>
 <li>
@@ -136,12 +136,12 @@ Doubt is not the anti-thesis of faith. It is an element of faith.
 </blockquote>
 
 <p>
-A person who is unable to tell others about what he thinks, how he feels, what 
+A person who is unable to tell others about what he thinks, how he feels, what
 bothers him, or tell them how he thinks they should improve, will feel
-resentful, trapped, unhappy and even <a href="http://en.wikipedia.org/wiki/Clinical_depression">clinically 
+resentful, trapped, unhappy and even <a href="http://en.wikipedia.org/wiki/Clinical_depression">clinically
 depressed</a>. That's why it is important to be honest and sincere: tell people
-how you feel, tell them what you think about them (both positive and 
-negative), don't have dogma and accept nothing as the "absolute truth". This 
+how you feel, tell them what you think about them (both positive and
+negative), don't have dogma and accept nothing as the "absolute truth". This
 is the path to self-esteem, and to enlightenment.
 </p>
 
@@ -158,13 +158,13 @@ honest and sincere.)
 Obviously even when you're perfectly happy, and ethical and honest, you'll
 likely find something missing. An ambitious human often needs growth. He wishes
 to continuously take greater and greater challenges, become happier as time
-goes by, make new friends, learn more and more, acquire new skills, become 
+goes by, make new friends, learn more and more, acquire new skills, become
 wiser and/or more intelligent, etc.
 </p>
 
 <p>
-The <a href="http://shlomif.livejournal.com/44643.html">opposite of growth is 
-death</a>. All people with a living psyche, are growing, even if they appear 
+The <a href="http://shlomif.livejournal.com/44643.html">opposite of growth is
+death</a>. All people with a living psyche, are growing, even if they appear
 to not achieve too much "greatness". We seek people with a living growth.
 </p>
 
@@ -196,7 +196,7 @@ in a software, and we intend to eventually eliminate most or even all of them.
 </p>
 
 <p>
-We believe that openness and freedom, while not absolutely necessary, greatly 
+We believe that openness and freedom, while not absolutely necessary, greatly
 facilitate making a software high-quality, and are things we can't do without.
 </p>
 
@@ -206,7 +206,7 @@ facilitate making a software high-quality, and are things we can't do without.
 
 <p>
 We believe that <b>people are smart and capable</b>. They can change. They
-can learn new skills. They can grow. So we're not trying to dumb down our 
+can learn new skills. They can grow. So we're not trying to dumb down our
 software. It doesn't mean we don't believe in making it "user-friendly"
 and "intuitive" - i.e: having good usability. On the contrary, such things
 will make it easier and less frustrating for both experts and ordinary
@@ -226,19 +226,19 @@ as intelligent people.
 
 <p>
 Until further notice, our policy would be to be fanatic to release our
-software under the free-est, most open and least restrictive terms: 
+software under the free-est, most open and least restrictive terms:
 <a href="http://en.wikipedia.org/wiki/Public_domain">the Public Domain</a>. As
-far as our software is concerned, this implies <a href="http://en.wikipedia.org/wiki/MIT_License">MIT X11 Licence</a> (from now on also the <b>X11L</b>). 
+far as our software is concerned, this implies <a href="http://en.wikipedia.org/wiki/MIT_License">MIT X11 Licence</a> (from now on also the <b>X11L</b>).
 </p>
 
 <div class="side-img">
-<a href="http://www.nynjsurf.com/forum/need_quark_v7_for_mac_pretty_please-t15044.0.html"><img 
+<a href="http://www.nynjsurf.com/forum/need_quark_v7_for_mac_pretty_please-t15044.0.html"><img
     src="quark-small.png" alt="Quark from Star Trek DS9"
     title="Photo of Quark the Ferengi from Star Trek DS9" /></a>
 </div>
 
 <p>
-<b>Why the X11 Licence and not the GPL?</b> That's because we are firm 
+<b>Why the X11 Licence and not the GPL?</b> That's because we are firm
 believers in the 1st Ferengi Rule of Acquisition:
 </p>
 
@@ -251,22 +251,22 @@ believers in the 1st Ferengi Rule of Acquisition:
 <p>
 We are greedy. But we're not greedy for money alone, and feel that our time
 is much more important. Furthermore we greedily want everyone in the world
-to use our software. 
+to use our software.
 </p>
 
 <p>
 If our software was GPLed, then people will have to ask us: "Can we link against
 your software?" or "Can we change its licence?". To say nothing of using
 our code in many situations where there are more legal and political hassles.
-We don't want that! If you want to use our code in any way you want, don't 
+We don't want that! If you want to use our code in any way you want, don't
 ask us - <b>Just Do It</b>!
 </p>
 
 <p id="gpl-licensed-libs">
 Some companies distribute libraries under the GPL or a similar licence.
-Prime examples for this are 
+Prime examples for this are
 <a href="http://trolltech.com/products/qt/">Qt</a>
-by TrollTech (now part of Nokia), and <a 
+by TrollTech (now part of Nokia), and <a
 href="http://www.oracle.com/technology/products/berkeley-db/">Berkeley DB</a>
 by Sleepy Cat software (now part of Oracle Corp.). What they do is allow free
 software to use the library, and charge money for exempting such products
@@ -326,14 +326,14 @@ for Microsoft Windows.
 <li id="webmail-idea">
 
 <p>
-A <b>better Web-based email</b> system, because even 
+A <b>better Web-based email</b> system, because even
 <a href="http://shlomif.livejournal.com/46955.html">GMail is not too good.</a>.
 </p>
 
 <p>
 Note that we're likely to provide paid hosting for a service of it, despite
 the fact our client will be free for other users to install, and for competing
-services to provide data. 
+services to provide data.
 
 </p>
 
@@ -393,8 +393,8 @@ web-site.
 <li id="spark-lisp">
 
 <p>
-<a href="http://www.shlomifish.org/open-source/projects/Park-Lisp/"><b>Spark 
-Lisp</b></a> - a modern and usable dialect of Lisp inspired by 
+<a href="http://www.shlomifish.org/open-source/projects/Park-Lisp/"><b>Spark
+Lisp</b></a> - a modern and usable dialect of Lisp inspired by
 <a href="http://www.paulgraham.com/arc.html">Arc</a>, Perl 5/6,
 Ruby, Smalltalk, and other languages.
 </p>
@@ -407,7 +407,7 @@ Ruby, Smalltalk, and other languages.
 <b>Peque</b> - short for "Personal Questing Engine" - a vertical engine for
 <a href="http://en.wikipedia.org/wiki/Adventure_game">computerised adventure
 games</a> that will allow building more and more sophisticated games from the
-same source. Part of our vision is to also set up "PQAN - the Personal 
+same source. Part of our vision is to also set up "PQAN - the Personal
 Questing Archive Network" which will contain re-usable code and media for
 such games.
 </p>
@@ -417,10 +417,10 @@ such games.
 </ol>
 
 <p>
-We neither subscribe to the "Not-Invented-Here" syndrome, nor are 
+We neither subscribe to the "Not-Invented-Here" syndrome, nor are
 mortally  against it. Re-using existing code, or implementing something
 yourself is a decision that is dependent on the circumstances. If we can use
-an existing code as a starting point, we probably will (in accordance with <a 
+an existing code as a starting point, we probably will (in accordance with <a
 href="http://www.catb.org/~esr/writings/cathedral-bazaar/">the Cathedral
 and the Bazaar</a>, but we may still end up starting from a fresh page.
 </p>
@@ -429,8 +429,8 @@ and the Bazaar</a>, but we may still end up starting from a fresh page.
 
 <p>
 The original idea for a name was "Random Hacks' Random Hackers" or RHRH
-for short, after the <a 
-href="http://www.catb.org/~esr/faqs/hacker-howto.html">computer software 
+for short, after the <a
+href="http://www.catb.org/~esr/faqs/hacker-howto.html">computer software
 enthusiasts</a> (and not necessarily computer intruders) called "Hackers".
 But this was:
 </p>
