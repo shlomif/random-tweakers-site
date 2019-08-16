@@ -20,5 +20,3 @@ my $generator =
     );
 
 $generator->process_all();
-
-1;
